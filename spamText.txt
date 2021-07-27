@@ -1,2 +1,5 @@
 THis is a spmabot model 
 made by vaibhav yadav
+---------------------------------------------------
+YOu can type your text here which you wnat to spam 
+---------------------------------------------------
